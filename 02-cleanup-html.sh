@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# remove 
+# remove CNXML specific  things from html
 #
 # use homebrew gfind on OS X or find on GNU systems (like Linux)
 cd content
